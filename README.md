@@ -10,14 +10,14 @@ Recipe Book: Lưu trữ công thức nấu ăn: thêm, sửa, xóa công thức,
 
 Giao diện và chức năng chính của trang web:
 - Trang chủ:
-  ![Giao diện chính](screenshots/dashboard.png)
+  ![Giao diện chính](screenshot/dashboard.png)
 - Thêm:
-  ![Thêm](screenshots/adđ.png)
+  ![Thêm](screenshot/adđ.png)
 - Sửa:
-  ![Sửa](screenshots/update.png)
+  ![Sửa](screenshot/update.png)
 - Xóa:
-  ![Xóa](screenshots/dalete.png)
+  ![Xóa](screenshot/dalete.png)
 - Chi tiết:
-  ![Chi tiết](screenshots/home.png)
+  ![Chi tiết](screenshot/home.png)
 - Tìm kiếm:
-  ![Giao diện chính](screenshots/search.png)
+  ![Giao diện chính](screenshot/search.png)
