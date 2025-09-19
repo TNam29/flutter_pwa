@@ -5,7 +5,7 @@ Recipe Book: Lưu trữ công thức nấu ăn: thêm, sửa, xóa công thức,
 - Đây là các yêu cầu kỹ thuật: 
 + Triển khai frontend bằng HTML, CSS, JavaScript/Framework (React, Vue, Svelte).
 + Dùng để hỗ trợ offline, cache assets.
-+ Dùng để lưu dữ liệu cơ bản. tôi muốn làm đề tài này
++ Dùng để lưu dữ liệu cơ bản. 
 + Xử lý logic bằng flutter
 
 Giao diện và chức năng chính của trang web:
