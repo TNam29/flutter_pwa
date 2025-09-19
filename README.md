@@ -1,16 +1,23 @@
 # flutter_recipe_book
 
-A new Flutter project.
+Chủ đề PWA : 
+Recipe Book: Lưu trữ công thức nấu ăn: thêm, sửa, xóa công thức, hỗ trợ tìm kiếm nguyên liệu.
+- Đây là các yêu cầu kỹ thuật: 
++ Triển khai frontend bằng HTML, CSS, JavaScript/Framework (React, Vue, Svelte).
++ Dùng để hỗ trợ offline, cache assets.
++ Dùng để lưu dữ liệu cơ bản. tôi muốn làm đề tài này
++ Xử lý logic bằng flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Giao diện và chức năng chính của trang web:
+- Trang chủ:
+  ![Giao diện chính](screenshots/dashboard.png)
+- Thêm:
+  ![Thêm](screenshots/adđ.png)
+- Sửa:
+  ![Sửa](screenshots/update.png)
+- Xóa:
+  ![Xóa](screenshots/dalete.png)
+- Chi tiết:
+  ![Chi tiết](screenshots/home.png)
+- Tìm kiếm:
+  ![Giao diện chính](screenshots/search.png)
