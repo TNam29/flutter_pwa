@@ -12,12 +12,12 @@ Giao diện và chức năng chính của trang web:
 - Trang chủ:
   ![Giao diện chính](screenshot/dashboard.png)
 - Thêm:
-  ![Thêm](screenshot/adđ.png)
+  ![Thêm](screenshot/add.png)
 - Sửa:
   ![Sửa](screenshot/update.png)
 - Xóa:
-  ![Xóa](screenshot/dalete.png)
+  ![Xóa](screenshot/delete.png)
 - Chi tiết:
-  ![Chi tiết](screenshot/home.png)
+  ![Chi tiết](screenshot/detail.png)
 - Tìm kiếm:
   ![Giao diện chính](screenshot/search.png)
